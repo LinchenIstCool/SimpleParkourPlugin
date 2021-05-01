@@ -1,0 +1,10 @@
+name: Parkour
+version: ${project.version}
+main: com.linchen.parkour.Jumpandrun
+api-version: 1.16
+authors: [ Linchen ]
+description: A parkour plugin with check points
+commands:
+  create:
+    permission: parkour.create
+    description: Gives you the parkour plates
